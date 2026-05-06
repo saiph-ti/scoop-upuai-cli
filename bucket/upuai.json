@@ -1,12 +1,12 @@
 {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/saiph-ti/upuai-cli/releases/download/v0.7.0/upuai_0.7.0_windows_x86_64.zip",
+            "url": "https://github.com/saiph-ti/upuai-cli/releases/download/v0.8.0/upuai_0.8.0_windows_x86_64.zip",
             "bin": [
                 "upuai.exe"
             ],
-            "hash": "00e82d704ae98351edda7a73b762ea6c4fb4cbbf6599314277cd5aad8b1c5cef"
+            "hash": "1b0a7e2326616c96e5051a069eed068274e6c2a3fefb223b0140f3ba24732453"
         }
     },
     "homepage": "https://upuai.cloud",
